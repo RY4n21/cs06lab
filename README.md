@@ -1,1 +1,1 @@
-# cs06lab
+# LabAssignment
